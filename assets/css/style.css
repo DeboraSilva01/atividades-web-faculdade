@@ -36,6 +36,10 @@ th, td{
     color: #bdc1c6;
 
 }
+.tabelaPrincipal tr:hover{
+    cursor: pointer;
+    background-color: rgb(61, 63, 62);
+}
 
 .pontos{
     font-weight: bold;
